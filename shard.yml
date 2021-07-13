@@ -1,0 +1,13 @@
+name: ipfs_swarm_key_gen
+version: 0.1.0
+
+authors:
+  - Robert <dev@robertsimoes.org>
+
+targets:
+  ipfs_swarm_key_gen:
+    main: src/ipfs_swarm_key_gen.cr
+
+crystal: 1.0.0
+
+license: MIT
