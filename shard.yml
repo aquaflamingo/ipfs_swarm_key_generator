@@ -2,7 +2,7 @@ name: ipfs_swarm_key_gen
 version: 0.1.0
 
 authors:
-  - Robert <dev@robertsimoes.org>
+  - Robert 
 
 targets:
   ipfs_swarm_key_gen:
